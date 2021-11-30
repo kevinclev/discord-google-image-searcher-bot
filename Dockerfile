@@ -1,4 +1,4 @@
-FROM python:3.9-slim-buster
+FROM arm32v7/python:3.9-buster
 
 WORKDIR /discord-bot
 
